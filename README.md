@@ -11,3 +11,8 @@ How to play the game:
 - When near the ball hold space and use WASD to angle the ball, Once you let go of space the ball is then thrown in that direction
 
 - *make the ball go through the goal to win and proceed to the next level
+
+HOW TO OPEN GAME
+- Open up the GolfGamePlay file and click on the GolfGamePlay.exe
+- TO EXIT THE GAME USE KEYS ALT + F4
+  
